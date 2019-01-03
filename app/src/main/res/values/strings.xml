@@ -4,9 +4,9 @@
     <string name="need_a_new_account">NEED A NEW ACCOUNT</string>
     <string name="welcome_to_ping_me">Welcome to Ping me</string>
     <string name="hint">hint</string>
+    <string name="this_is_main_page">This is main page</string>
     <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="create_account">CREATE ACCOUNT</string>
-    <string name="email">Email</string>
-    <string name="this_is_main_page">This is main page</string>
 </resources>
