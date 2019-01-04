@@ -6,17 +6,7 @@
     android:layout_height="match_parent"
    >
 
-    <include
-        android:id="@+id/register_toolbar"
-        layout="@layout/app_bar_layout"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="0dp"
-        android:layout_marginStart="0dp"
-        android:layout_marginTop="0dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    
 
     <a
         android:layout_height="wrap_content"
