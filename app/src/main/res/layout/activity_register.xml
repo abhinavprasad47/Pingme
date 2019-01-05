@@ -45,16 +45,7 @@
         android:layout_marginTop="10dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/register_display_name">
-
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="@string/email"
-            android:inputType="textEmailAddress" />
-    </android.support.design.widget.TextInputLayout>
-artOf="parent"
-        app:l
+      
 
 
 </android.support.constraint.ConstraintLayout>
